@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728271438454",
+    "firebase_url": "https://hkhelper-a4280.firebaseio.com",
+    "project_id": "hkhelper-a4280",
+    "storage_bucket": "hkhelper-a4280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728271438454:android:cd8f0233776f15cd",
+        "android_client_info": {
+          "package_name": "com.example.shung47.hkhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728271438454-otkqonm9n3qlklc12ga5b7ujhif8enhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shung47.hkhelper",
+            "certificate_hash": "7318350e9db5df05b5625f8781a29db85ae91e95"
+          }
+        },
+        {
+          "client_id": "728271438454-4lr82m3e3m8g1svoa0u29qkrht3qpavl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2aRmKhnt8mSkUJrRf9Zf-ccYyYzaYp8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728271438454-4lr82m3e3m8g1svoa0u29qkrht3qpavl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
